@@ -36,6 +36,11 @@ See [project-plan.md](project-plan.md) for detailed implementation timeline and 
 - Hugging Face Transformers
 - Medical imaging libraries (SimpleITK, pydicom)
 
+## Setting up the Environment
+
+To activate your environment later:
+  source venv/bin/activate
+
 ## License
 
 [To be determined]
